@@ -279,7 +279,7 @@ function Layout({ title, children }) {
           {children}
         </main>
         <footer className="flex h-10 justify-center items-center shadow-inner">
-          <p>Made with ❤️ in India</p>
+          <p>Made by me</p>
         </footer>
       </div>
     </>
